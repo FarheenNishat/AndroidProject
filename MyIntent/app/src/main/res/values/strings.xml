@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="welcome_to_activity_two">Welcome to Activity two</string>
+    <string name="go_to_chrome">Go to chrome</string>
+</resources>
