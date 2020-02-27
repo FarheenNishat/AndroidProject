@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyUIdesign</string>
+
+    <string name="hint_no">please enter your Mobile No</string>
+    <string name="btn_submit">Submit</string>
+    <string name="login">LOGIN</string>
+    <string name="hint_name">Enter Username</string>
+    <string name="hint">Enter PassWord</string>
+</resources>
